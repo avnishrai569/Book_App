@@ -29,18 +29,8 @@ Important Code:
 `src/theme.js` Themes for light and dark  
 `src/RootNavigator.jsx` App navigation
 
-### Dependencies
-I wanted to keep the dependencies outside of React Native & Expo to a minimum. The app relies on the following libraries as core, others you see in package.json are optional.
-```
-react-navigation
-expo-haptics (remove if you don't want haptics)
-lottie-react-native (remove if you don't need lottie)
-react-native-reanimated
-react-native-shared-element
-react-navigation-shared-element
-```
 
-
+```
 
 Lottie Animations  
 https://github.com/lottie-react-native/lottie-react-native
