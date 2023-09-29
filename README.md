@@ -40,12 +40,7 @@ react-native-shared-element
 react-navigation-shared-element
 ```
 
-### Reference Material
-Reanimated 2  
-https://docs.swmansion.com/react-native-reanimated/docs
 
-Shared Element Navigation  
-https://github.com/IjzerenHein/react-navigation-shared-element/blob/navigation-v5/README.md
 
 Lottie Animations  
 https://github.com/lottie-react-native/lottie-react-native
