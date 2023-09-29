@@ -31,10 +31,3 @@ Important Code:
 
 
 ```
-
-Lottie Animations  
-https://github.com/lottie-react-native/lottie-react-native
-
-**Android**  
-If you're running into issues with Android please make sure to check that reanimated and shared navigation element (v5) are installed properly with the right versions and Layout Animations have been enabled.
-
